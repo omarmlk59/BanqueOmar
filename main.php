@@ -41,6 +41,7 @@ while($variable == true) {
         case '3' :
             creationCompteBanquaire($donneesCompte,$donneesAgence,$donneesClient,$donneesIdentifiant);
             break;
+        
         case '8' :
             $variable = false;
             break ;
